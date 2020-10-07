@@ -26,7 +26,7 @@
 .header h1 {
   font-size: 60px;
   color: #e3e3e3;
-  background: 0 0 no-repeat #d12960 url("../images/header_h1_bkg.png"); 
+  background: 0 0 no-repeat #d12960 url("images/header_h1_bkg.png"); 
   padding: 10px 20px; }
 
 .header h1 a,
@@ -47,7 +47,7 @@
   font-size: 30px;
   color: #e3e3e3;
   line-height: 50px;
-  background: 0px 0 repeat-x url("../images/header_h2_bkg.png"); 
+  background: 0px 0 repeat-x url("images/header_h2_bkg.png"); 
   height: 105px;
   top: 80px;
   left: 55px; }
@@ -56,7 +56,7 @@
   display: block;
   height: 105px;
   padding: 0 20px;
-  background: 0 0 no-repeat url("../images/header_h2_span_bkg.png"); }
+  background: 0 0 no-repeat url("images/header_h2_span_bkg.png"); }
 
 
 .header ul.menu {
